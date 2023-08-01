@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# in case arm64 and x86_64 are used simultaneously
+yarn.lock
+
 # testing
 /coverage
 
